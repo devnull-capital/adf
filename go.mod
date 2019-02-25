@@ -1,4 +1,4 @@
-module github.com/adam-hanna/adf
+module github.com/devnull-capital/adf
 
 replace gonum.org/v1/plot v1.0.0 => github.com/gonum/plot v0.0.0-20160825200512-5d72a5b2b142ffcf1ea8775811535daebc795ca9
 
